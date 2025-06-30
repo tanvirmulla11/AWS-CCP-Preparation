@@ -34,4 +34,28 @@ Welcome to **Day 05** of my AWS Cloud Practitioner learning journey! Today was a
 - `✔️ Quiz 4:` EC2 Instance Storage Quiz ✅
 
 ---
+## 💡 Key Learnings:
+- Difference between EBS, EFS, and Instance Store
+- Snapshots and AMIs are essential for backups and scaling
+- EBS volumes persist, Instance Store doesn't!
+- FSx is great for specialized use-cases (HPC, Windows File Server)
+- EC2 Image Builder simplifies AMI automation
+
+---
+
+## 🔧 Hands-On Labs:
+- Created and attached EBS volumes
+- Took and restored EBS snapshots
+- Built custom AMIs for automation
+
+---
+
+## 🧠 Next Up:
+Day 06 – Dive into **Elastic Load Balancers (ELB)** and **Auto Scaling Groups (ASG)**.
+
+---
+
+📍**Stay tuned** for more DevOps + AWS content!
+
+📎 Connect on [GitHub](https://github.com/tanvirmulla11) | [LinkedIn](https://www.linkedin.com/in/tanvir-mulla-198309251/)
 
