@@ -55,5 +55,15 @@ All AWS resources created in this section (ALB, ASG, EC2 instances) were termina
 
 ---
 
-## 🚀 Next Section
-Moving on to:
+## 🚀 Next Section  
+**Day 07 - Amazon S3: Simple Storage Service**
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanvir-mulla-198309251/)
+- 💻 [GitHub](https://github.com/tanvirmulla11)
+
+---
+
+> _"Learning AWS step by step – one lab at a time!"_
+
+
