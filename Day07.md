@@ -43,5 +43,26 @@ Ensure you complete the **ELB & ASG Quiz** to reinforce your understanding.
 
 ---
 
+---
+
+## ✅ Hands-On Skills
+
+- ✅ Created and configured an Application Load Balancer (ALB)
+- ✅ Implemented health checks and listener rules
+- ✅ Launched an Auto Scaling Group with desired capacity and scaling policies
+- ✅ Linked ALB with ASG for high availability setup
+
+---
+
+## 📘 What’s Next?
+
+🎯 **Day 8: Amazon S3 (Simple Storage Service)**  
+We’ll learn how to create buckets, upload/manage objects, configure permissions, enable versioning, and even host static websites on S3.  
+Stay tuned for hands-on labs and best practices!
+
+
+_Stay consistent and keep learning! 💪_
+
+
 
 
