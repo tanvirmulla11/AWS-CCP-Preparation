@@ -75,3 +75,15 @@ Welcome to Day 8 of the DevOps Learning Journey! Today we explored **Amazon S3**
 
 ---
 
+---
+
+## 📘 What’s Next?
+
+🎯 **Day 9: AWS Databases**  
+You’ll explore core AWS database services like **RDS**, **DynamoDB**, and **Aurora**, including hands-on deployment, backups, scaling, and configuration — essential for designing data-driven applications in the cloud.
+
+---
+
+_Keep storing knowledge, and version your success! ☁️_
+
+
