@@ -73,6 +73,15 @@ Welcome to Day 9 of your AWS Cloud journey! Today we explored **Amazon S3**, its
 - Storage Gateway
 
 ---
+---
 
-> 💡 Keep practicing! Each AWS service builds a stronger DevOps foundation.
+## 📘 What’s Next?
+
+🎯 **Day 10: AWS Databases**  
+You’ll explore core AWS database services like **RDS**, **DynamoDB**, and **Aurora**, including hands-on deployment, backups, scaling, and configuration — essential for designing data-driven applications in the cloud.
+
+---
+
+_Keep storing knowledge, and version your success! ☁️_
+
 
