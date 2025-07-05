@@ -48,12 +48,13 @@ Welcome to **Day 10** of the AWS Cloud & DevOps Learning Journey. Today’s focu
 - ✅ Working with Aurora, Global Tables, and Data Migration basics
 
 ---
+---
 
 ## 📘 What’s Next?
 
-🎯 **Day 11: Infrastructure as Code (IaC) with Terraform**  
-You’ll dive into the basics of Terraform, how to declare and provision infrastructure using `.tf` files, work with providers like AWS, and integrate with CI/CD.
+🎯 **Day 11: Other Compute Services — ECS, Lambda, Batch, Lightsail**  
+Next, you’ll explore powerful AWS compute services like **ECS** (container orchestration), **Lambda** (serverless compute), **Batch** (batch processing), and **Lightsail** (simplified cloud VPS) — essential tools for modern application deployment strategies.
 
 ---
 
-_Keep building knowledge blocks — your DevOps architecture is forming!_ 🏗️
+_Take control of compute power — scale smarter in the cloud! 🚀_
