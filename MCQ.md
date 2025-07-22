@@ -309,6 +309,236 @@ Which EC2 option is most cost-effective for stable 1-year usage?
 </details>
 
 ---
+### 21. Which AWS service or feature allows a user to establish a dedicated network connection between a company’s on-premises data center and the AWS Cloud?
+- A. AWS Direct Connect  
+- B. VPC peering  
+- C. AWS VPN  
+- D. Amazon Route 53  
+<details><summary>Answer</summary>
+A. AWS Direct Connect
+</details>
+
+---
+
+### 22. Which option is a physical location of the AWS global infrastructure?
+- A. AWS DataSync  
+- B. AWS Region  
+- C. Amazon Connect  
+- D. AWS Organizations  
+<details><summary>Answer</summary>
+B. AWS Region
+</details>
+
+---
+
+### 23. A company wants to protect its AWS Cloud information, systems, and assets while performing risk assessment and mitigation tasks.  
+Which pillar of the AWS Well-Architected Framework is supported by these goals?
+- A. Reliability  
+- B. Security  
+- C. Operational excellence  
+- D. Performance efficiency  
+<details><summary>Answer</summary>
+B. Security
+</details>
+
+---
+
+### 24. What is the purpose of having an internet gateway within a VPC?
+- A. To create a VPN connection to the VPC  
+- B. To allow communication between the VPC and the internet  
+- C. To impose bandwidth constraints on internet traffic  
+- D. To load balance traffic from the internet across Amazon EC2 instances  
+<details><summary>Answer</summary>
+B. To allow communication between the VPC and the internet
+</details>
+
+---
+
+### 25. Migrating a monolithic app to microservices supports which AWS Well-Architected best practice?
+- A. Integrate functional testing as part of AWS deployment  
+- B. Use automation to deploy changes  
+- C. Deploy the application to multiple locations  
+- D. Implement loosely coupled dependencies  
+<details><summary>Answer</summary>
+D. Implement loosely coupled dependencies
+</details>
+
+---
+
+### 26. Which AWS service provides password and access key rotation details?
+- A. IAM Access Analyzer  
+- B. AWS Artifact  
+- C. IAM credential report  
+- D. AWS Audit Manager  
+<details><summary>Answer</summary>
+C. IAM credential report
+</details>
+
+---
+
+### 27. AWS services to notify when a cost threshold is reached? (Choose two)
+- A. Amazon SQS  
+- B. AWS Budgets  
+- C. Cost Explorer  
+- D. Amazon CloudWatch  
+- E. AWS Cost and Usage Report  
+<details><summary>Answer</summary>
+B. AWS Budgets  
+D. Amazon CloudWatch
+</details>
+
+---
+
+### 28. AWS resource that provides frequently asked security-related answers?
+- A. AWS Artifact  
+- B. Amazon Connect  
+- C. AWS Chatbot  
+- D. AWS Knowledge Center  
+<details><summary>Answer</summary>
+D. AWS Knowledge Center
+</details>
+
+---
+
+### 29. AWS Shared Responsibility Model: customer responsibilities? (Choose two)
+- A. Configure security group firewall  
+- B. Classify company assets  
+- C. Choose S3 Availability Zones  
+- D. Patch DynamoDB  
+- E. Select EC2 for Lambda  
+<details><summary>Answer</summary>
+A. Configure security group firewall  
+B. Classify company assets
+</details>
+
+---
+
+### 30. AWS Well-Architected Framework pillars? (Choose two)
+- A. Availability  
+- B. Reliability  
+- C. Scalability  
+- D. Responsive design  
+- E. Operational excellence  
+<details><summary>Answer</summary>
+B. Reliability  
+E. Operational excellence
+</details>
+
+---
+
+### 31. Service to send both text and email messages from applications?
+- A. Amazon SNS  
+- B. Amazon SES  
+- C. Amazon CloudWatch alerts  
+- D. Amazon SQS  
+<details><summary>Answer</summary>
+A. Amazon SNS
+</details>
+
+---
+
+### 32. What provides programmatic access to AWS CLI/API?
+- A. Amazon Inspector  
+- B. Access keys  
+- C. SSH public keys  
+- D. AWS KMS keys  
+<details><summary>Answer</summary>
+B. Access keys
+</details>
+
+---
+
+### 33. Best pricing model for stateless AWS Batch simulations?
+- A. Reserved Instances  
+- B. Spot Instances  
+- C. On-Demand Instances  
+- D. Dedicated Instances  
+<details><summary>Answer</summary>
+B. Spot Instances
+</details>
+
+---
+
+### 34. What does agility in AWS mean? (Choose two)
+- A. Speed of implementing AWS resources  
+- B. AWS expanding to new Regions  
+- C. Ability to experiment quickly  
+- D. Eliminate wasted capacity  
+- E. Low cost of entry  
+<details><summary>Answer</summary>
+A. Speed of implementing AWS resources  
+C. Ability to experiment quickly
+</details>
+
+---
+
+### 35. Service to block SQL injection attacks?
+- A. AWS WAF  
+- B. AWS Shield  
+- C. Network ACLs  
+- D. Security groups  
+<details><summary>Answer</summary>
+A. AWS WAF
+</details>
+
+---
+
+### 36. Feature to check if S3/IAM role is shared externally?
+- A. AWS Service Catalog  
+- B. AWS Systems Manager  
+- C. AWS IAM Access Analyzer  
+- D. AWS Organizations  
+<details><summary>Answer</summary>
+C. AWS IAM Access Analyzer
+</details>
+
+---
+
+### 37. How to get AWS compliance reports before migration?
+- A. Contact AWS Compliance  
+- B. Download from AWS Artifact  
+- C. Open AWS Support ticket  
+- D. Use Amazon Macie  
+<details><summary>Answer</summary>
+B. Download from AWS Artifact
+</details>
+
+---
+
+### 38. Cost directly owned by customer in cloud?
+- A. Software license cost  
+- B. AWS hardware cost  
+- C. AWS server power  
+- D. AWS datacenter security  
+<details><summary>Answer</summary>
+A. Software license cost
+</details>
+
+---
+
+### 39. IAM security best practice?
+- A. Use root access keys  
+- B. Grant broad permissions  
+- C. Enable MFA  
+- D. Never rotate credentials  
+<details><summary>Answer</summary>
+C. Enable MFA
+</details>
+
+---
+
+### 40. Elasticity in AWS means? (Choose two)
+- A. Restart EC2 quickly  
+- B. Rightsize resources with demand  
+- C. Max RAM on EC2  
+- D. Pay-as-you-go  
+- E. Procure resources easily  
+<details><summary>Answer</summary>
+B. Rightsize resources with demand  
+E. Procure resources easily
+</details>
+
+---
 
 ## 📘 License  
 For educational use only.
