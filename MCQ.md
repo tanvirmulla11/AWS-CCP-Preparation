@@ -540,6 +540,120 @@ E. Procure resources easily
 
 ---
 
+# 📘 AWS Cloud Practitioner Quiz – Part 3 (Q41–Q60)
+
+Test your knowledge! Click on "Answer" to reveal the correct option.
+
+---
+
+### 41. Which service enables customers to audit API calls in their AWS accounts?
+
+A. AWS CloudTrail  
+B. AWS Trusted Advisor  
+C. Amazon Inspector  
+D. AWS X-Ray  
+<details><summary>Answer</summary>A</details>
+
+---
+
+### 42. What is a customer responsibility when using AWS Lambda according to the AWS shared responsibility model?
+
+A. Managing the code within the Lambda function  
+B. Confirming that the hardware is working in the data center  
+C. Patching the operating system  
+D. Shutting down Lambda functions when they are no longer in use  
+<details><summary>Answer</summary>A</details>
+
+---
+
+### 43. A company has 5 TB of data stored in Amazon S3. The company plans to occasionally run queries on the data for analysis.  
+Which AWS service should the company use to run these queries in the MOST cost-effective manner?
+
+A. Amazon Redshift  
+B. Amazon Athena  
+C. Amazon Kinesis  
+D. Amazon RDS  
+<details><summary>Answer</summary>B</details>
+
+---
+
+### 44. Which AWS service can be used at no additional cost?
+
+A. Amazon SageMaker  
+B. AWS Config  
+C. AWS Organizations  
+D. Amazon CloudWatch  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 45. Which AWS Cloud Adoption Framework (AWS CAF) capability belongs to the people perspective?
+
+A. Data architecture  
+B. Event management  
+C. Cloud fluency  
+D. Strategic partnership  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 46. A company wants to make an upfront commitment for continued use of its production Amazon EC2 instances in exchange for a reduced overall cost.  
+Which pricing options meet these requirements with the LOWEST cost? (Choose two.)
+
+A. Spot Instances  
+B. On-Demand Instances  
+C. Reserved Instances  
+D. Savings Plans  
+E. Dedicated Hosts  
+<details><summary>Answer</summary>C and D</details>
+
+---
+
+### 47. A company wants to migrate its on-premises relational databases to the AWS Cloud.  
+The company wants to use infrastructure as close to its current geographical location as possible.  
+Which AWS service or resource should the company use to select its Amazon RDS deployment area?
+
+A. Amazon Connect  
+B. AWS Wavelength  
+C. AWS Regions  
+D. AWS Direct Connect  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 48. A company is exploring the use of the AWS Cloud, and needs to create a cost estimate for a project before the infrastructure is provisioned.  
+Which AWS service or feature can be used to estimate costs before deployment?
+
+A. AWS Free Tier  
+B. AWS Pricing Calculator  
+C. AWS Billing and Cost Management  
+D. AWS Cost and Usage Report  
+<details><summary>Answer</summary>B</details>
+
+---
+
+### 49. A company is building an application that needs to deliver images and videos globally with minimal latency.  
+Which approach can the company use to accomplish this in a cost effective manner?
+
+A. Deliver the content through Amazon CloudFront  
+B. Store the content on Amazon S3 and enable S3 cross-region replication  
+C. Implement a VPN across multiple AWS Regions  
+D. Deliver the content through AWS PrivateLink  
+<details><summary>Answer</summary>A</details>
+
+---
+
+### 50. Which option is a benefit of the economies of scale based on the advantages of cloud computing?
+
+A. The ability to trade variable expense for fixed expense  
+B. Increased speed and agility  
+C. Lower variable costs over fixed costs  
+D. Increased operational costs across data centers  
+<details><summary>Answer</summary>C</details>
+
+
+
+
 ## 📘 License  
 For educational use only.
 
