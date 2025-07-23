@@ -651,6 +651,114 @@ C. Lower variable costs over fixed costs
 D. Increased operational costs across data centers  
 <details><summary>Answer</summary>C</details>
 
+---
+
+### 51. Which of the following is a software development framework that a company can use to define cloud resources as code and provision the resources through AWS CloudFormation?
+
+A. AWS CLI  
+B. AWS Developer Center  
+C. AWS Cloud Development Kit (AWS CDK)  
+D. AWS CodeStar  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 52. A company is developing an application that uses multiple AWS services.  
+The application needs to use temporary, limited-privilege credentials for authentication with other AWS APIs.  
+Which AWS service or feature should the company use?
+
+A. Amazon API Gateway  
+B. IAM users  
+C. AWS Security Token Service (AWS STS)  
+D. IAM instance profiles  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 53. Which AWS service is a cloud security posture management (CSPM) service that aggregates alerts from various AWS services and partner products in a standardized format?
+
+A. AWS Security Hub  
+B. AWS Trusted Advisor  
+C. Amazon EventBridge  
+D. Amazon GuardDuty  
+<details><summary>Answer</summary>A</details>
+
+---
+
+### 54. Which AWS service is always provided at no charge?
+
+A. Amazon S3  
+B. AWS Identity and Access Management (IAM)  
+C. Elastic Load Balancers  
+D. AWS WAF  
+<details><summary>Answer</summary>B</details>
+
+---
+
+### 55. To reduce costs, a company is planning to migrate a NoSQL database to AWS.  
+Which AWS service is fully managed and can automatically scale throughput capacity to meet database workload demands?
+
+A. Amazon Redshift  
+B. Amazon Aurora  
+C. Amazon DynamoDB  
+D. Amazon RDS  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 56. A company is using Amazon DynamoDB.  
+Which task is the company’s responsibility, according to the AWS shared responsibility model?
+
+A. Patch the operating system  
+B. Provision hosts  
+C. Manage database access permissions  
+D. Secure the operating system  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 57. A company has a test AWS environment. The application testing can be interrupted and does not need to run continuously.  
+Which Amazon EC2 purchasing option will meet these requirements MOST cost-effectively?
+
+A. On-Demand Instances  
+B. Dedicated Instances  
+C. Spot Instances  
+D. Reserved Instances  
+<details><summary>Answer</summary>C</details>
+
+---
+
+### 58. Which AWS service gives users the ability to discover and protect sensitive data that is stored in Amazon S3 buckets?
+
+A. Amazon Macie  
+B. Amazon Detective  
+C. Amazon GuardDuty  
+D. AWS IAM Access Analyzer  
+<details><summary>Answer</summary>A</details>
+
+---
+
+### 59. Which of the following services can be used to block network traffic to an instance? (Choose two.)
+
+A. Security groups  
+B. Amazon VPC flow logs  
+C. Network ACLs  
+D. Amazon CloudWatch  
+E. AWS CloudTrail  
+<details><summary>Answer</summary>A and C</details>
+
+---
+
+### 60. Which AWS service can identify when an Amazon EC2 instance was terminated?
+
+A. AWS Identity and Access Management (IAM)  
+B. AWS CloudTrail  
+C. AWS Compute Optimizer  
+D. Amazon EventBridge  
+<details><summary>Answer</summary>B</details>
+
+---
+
 
 
 
