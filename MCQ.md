@@ -758,6 +758,264 @@ D. Amazon EventBridge
 <details><summary>Answer</summary>B</details>
 
 ---
+# 📘 AWS Cloud Practitioner Quiz – Part 4 (Q61–Q80)
+
+Test your AWS knowledge with the following multiple-choice questions.  
+Click "Show Answer" to reveal the correct answer for each.
+
+---
+
+### 61. Which of the following is a fully managed MySQL-compatible database?
+A. Amazon S3  
+B. Amazon DynamoDB  
+C. Amazon Redshift  
+D. Amazon Aurora  
+<details>
+<summary>🔽 Show Answer</summary>
+D. Amazon Aurora
+</details>
+
+---
+
+### 62. Which AWS service supports a hybrid architecture that gives users the ability to extend AWS infrastructure, AWS services, APIs, and tools to data centers, co-location environments, or on-premises facilities?  
+A. AWS Snowmobile  
+B. AWS Local Zones  
+C. AWS Outposts  
+D. AWS Fargate  
+<details>
+<summary>🔽 Show Answer</summary>
+C. AWS Outposts
+</details>
+
+---
+
+### 63. Which AWS service can run a managed PostgreSQL database that provides online transaction processing (OLTP)?  
+A. Amazon DynamoDB  
+B. Amazon Athena  
+C. Amazon RDS  
+D. Amazon EMR  
+<details>
+<summary>🔽 Show Answer</summary>
+C. Amazon RDS
+</details>
+
+---
+
+### 64. A company wants to provide managed Windows virtual desktops and applications to its remote employees over secure network connections.  
+Which AWS services can the company use to meet these requirements? *(Choose two)*  
+A. Amazon Connect  
+B. Amazon AppStream 2.0  
+C. Amazon WorkSpaces  
+D. AWS Site-to-Site VPN  
+E. Amazon ECS  
+<details>
+<summary>🔽 Show Answer</summary>
+B. Amazon AppStream 2.0  
+C. Amazon WorkSpaces
+</details>
+
+---
+
+### 65. A company wants to monitor for misconfigured security groups that are allowing unrestricted access to specific ports.  
+Which AWS service will meet this requirement?  
+A. AWS Trusted Advisor  
+B. Amazon CloudWatch  
+C. Amazon GuardDuty  
+D. AWS Health Dashboard  
+<details>
+<summary>🔽 Show Answer</summary>
+A. AWS Trusted Advisor
+</details>
+
+---
+
+### 66. Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?  
+A. Amazon DynamoDB  
+B. Amazon Aurora  
+C. Amazon DocumentDB  
+D. Amazon Neptune  
+<details>
+<summary>🔽 Show Answer</summary>
+A. Amazon DynamoDB
+</details>
+
+---
+
+### 67. A company is deploying a machine learning (ML) research project that will require a lot of compute power over several months. The ML processing jobs do not need to run at specific times.  
+Which Amazon EC2 instance purchasing option will meet these requirements at the lowest cost?  
+A. On-Demand Instances  
+B. Spot Instances  
+C. Reserved Instances  
+D. Dedicated Instances  
+<details>
+<summary>🔽 Show Answer</summary>
+B. Spot Instances
+</details>
+
+---
+
+### 68. Which AWS services or features provide disaster recovery solutions for Amazon EC2 instances? *(Choose two)*  
+A. EC2 Reserved Instances  
+B. Amazon Machine Images (AMIs)  
+C. Amazon EBS snapshots  
+D. AWS Shield  
+E. Amazon GuardDuty  
+<details>
+<summary>🔽 Show Answer</summary>
+B. Amazon Machine Images (AMIs)  
+C. Amazon EBS snapshots
+</details>
+
+---
+
+### 69. Which AWS service provides command line access to AWS tools and resources directly from a web browser?  
+A. AWS CloudHSM  
+B. AWS CloudShell  
+C. Amazon WorkSpaces  
+D. AWS Cloud Map  
+<details>
+<summary>🔽 Show Answer</summary>
+B. AWS CloudShell
+</details>
+
+---
+
+### 70. A network engineer needs to build a hybrid cloud architecture connecting on-premises networks to the AWS Cloud using AWS Direct Connect. The company has a few VPCs in a single AWS Region and expects to increase the number of VPCs to hundreds over time.  
+Which AWS service or feature should the engineer use to simplify and scale this connectivity?  
+A. VPC endpoints  
+B. AWS Transit Gateway  
+C. Amazon Route 53  
+D. AWS Secrets Manager  
+<details>
+<summary>🔽 Show Answer</summary>
+B. AWS Transit Gateway
+</details>
+
+---
+
+### 71. A company wants to assess its operational readiness. It also wants to identify and mitigate any operational risks ahead of a new product launch.  
+Which AWS Support plan offers guidance and support for this kind of event at no additional charge?  
+A. AWS Business Support  
+B. AWS Basic Support  
+C. AWS Developer Support  
+D. AWS Enterprise Support  
+<details>
+<summary>🔽 Show Answer</summary>
+D. AWS Enterprise Support
+</details>
+
+---
+
+### 72. A company wants to establish a schedule for rotating database user credentials.  
+Which AWS service will support this requirement with the LEAST amount of operational overhead?  
+A. AWS Systems Manager  
+B. AWS Secrets Manager  
+C. AWS License Manager  
+D. AWS Managed Services  
+<details>
+<summary>🔽 Show Answer</summary>
+B. AWS Secrets Manager
+</details>
+
+---
+
+### 73. Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?  
+A. Amazon Route 53  
+B. Amazon Macie  
+C. AWS Direct Connect  
+D. AWS PrivateLink  
+<details>
+<summary>🔽 Show Answer</summary>
+C. AWS Direct Connect
+</details>
+
+---
+
+### 74. Which AWS service is used to provide encryption for Amazon EBS?  
+A. AWS Certificate Manager  
+B. AWS Systems Manager  
+C. AWS KMS  
+D. AWS Config  
+<details>
+<summary>🔽 Show Answer</summary>
+C. AWS KMS
+</details>
+
+---
+
+### 75. A company wants to manage its AWS Cloud resources through a web interface.  
+Which AWS service will meet this requirement?  
+A. AWS Management Console  
+B. AWS CLI  
+C. AWS SDK  
+D. AWS Cloud9  
+<details>
+<summary>🔽 Show Answer</summary>
+A. AWS Management Console
+</details>
+
+---
+
+### 76. Which of the following are advantages of the AWS Cloud? *(Choose two)*  
+A. Trade variable expenses for capital expenses  
+B. High economies of scale  
+C. Launch globally in minutes  
+D. Focus on managing hardware infrastructure  
+E. Overprovision to ensure capacity  
+<details>
+<summary>🔽 Show Answer</summary>
+B. High economies of scale  
+C. Launch globally in minutes
+</details>
+
+---
+
+### 77. Which AWS Cloud benefit is shown by an architecture’s ability to withstand failures with minimal downtime?  
+A. Agility  
+B. Elasticity  
+C. Scalability  
+D. High availability  
+<details>
+<summary>🔽 Show Answer</summary>
+D. High availability
+</details>
+
+---
+
+### 78. A developer needs to maintain a development environment infrastructure and a production environment infrastructure in a repeatable fashion.  
+Which AWS service should the developer use to meet these requirements?  
+A. AWS Ground Station  
+B. AWS Shield  
+C. AWS IoT Device Defender  
+D. AWS CloudFormation  
+<details>
+<summary>🔽 Show Answer</summary>
+D. AWS CloudFormation
+</details>
+
+---
+
+### 79. Which task is the customer’s responsibility, according to the AWS shared responsibility model?  
+A. Maintain the security of the AWS Cloud  
+B. Configure firewalls and networks  
+C. Patch the operating system of Amazon RDS instances  
+D. Implement physical and environmental controls  
+<details>
+<summary>🔽 Show Answer</summary>
+B. Configure firewalls and networks
+</details>
+
+---
+
+### 80. Which AWS service helps deliver highly available applications with fast failover for multi-Region and Multi-AZ architectures?  
+A. AWS WAF  
+B. AWS Global Accelerator  
+C. AWS Shield  
+D. AWS Direct Connect  
+<details>
+<summary>🔽 Show Answer</summary>
+B. AWS Global Accelerator
+</details>
 
 
 
