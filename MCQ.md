@@ -1021,7 +1021,7 @@ B. AWS Global Accelerator
 
 
 ## 📘 License  
-For educational use only.
+For educational use only.-23
 
 ## 🙌 Contribute  
 Feel free to fork this repo and add more AWS practice questions!
