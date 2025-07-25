@@ -1017,6 +1017,9 @@ D. AWS Direct Connect
 B. AWS Global Accelerator
 </details>
 
+---
+
+
 # 🧠 AWS Cloud Practitioner – Quiz Questions (81–100)
 
 Below are multiple-choice questions designed for AWS Cloud Practitioner certification preparation. Click "Show Answer" to reveal the correct option.
