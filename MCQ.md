@@ -1017,6 +1017,261 @@ D. AWS Direct Connect
 B. AWS Global Accelerator
 </details>
 
+# 🧠 AWS Cloud Practitioner – Quiz Questions (81–100)
+
+Below are multiple-choice questions designed for AWS Cloud Practitioner certification preparation. Click "Show Answer" to reveal the correct option.
+
+---
+
+### 81. A company has a set of ecommerce applications. The applications need to be able to send messages to each other.  
+**Which AWS service meets this requirement?**  
+A. AWS Auto Scaling  
+B. Elastic Load Balancing  
+C. Amazon Simple Queue Service (Amazon SQS)  
+D. Amazon Kinesis Data Streams  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: C**
+</details>
+
+---
+
+### 82. What are the benefits of consolidated billing for AWS Cloud services? (Choose two.)  
+A. Volume discounts  
+B. A minimal additional fee for use  
+C. One bill for multiple accounts  
+D. Installment payment options  
+E. Custom cost and usage budget creation  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: A, C**
+</details>
+
+---
+
+### 83. A user wants to review all Amazon S3 buckets with ACLs and S3 bucket policies in the S3 console.  
+**Which AWS service or resource will meet this requirement?**  
+A. S3 Multi-Region Access Points  
+B. S3 Storage Lens  
+C. AWS IAM Identity Center (AWS Single Sign-On)  
+D. Access Analyzer for S3  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: D**
+</details>
+
+---
+
+### 84. What is the best resource for a user to find compliance-related information and reports about AWS?  
+A. AWS Artifact  
+B. AWS Marketplace  
+C. Amazon Inspector  
+D. AWS Support  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: A**
+</details>
+
+---
+
+### 85. Which AWS service enables companies to deploy an application close to end users?  
+A. Amazon CloudFront  
+B. AWS Auto Scaling  
+C. AWS AppSync  
+D. Amazon Route 53  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: A**
+</details>
+
+---
+
+### 86. Which AWS service or feature improves network performance by sending traffic through the AWS worldwide network infrastructure?  
+A. Route table  
+B. AWS Transit Gateway  
+C. AWS Global Accelerator  
+D. Amazon VPC  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: C**
+</details>
+
+---
+
+### 87. Which AWS service provides highly durable object storage?  
+A. Amazon S3  
+B. Amazon Elastic File System (Amazon EFS)  
+C. Amazon Elastic Block Store (Amazon EBS)  
+D. Amazon FSx  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: A**
+</details>
+
+---
+
+### 88. Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?  
+A. Database backups  
+B. Database software patches  
+C. Operating system patches  
+D. Operating system installations  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: D**
+</details>
+
+---
+
+### 89. Which of the following are advantages of moving to the AWS Cloud? (Choose two.)  
+A. The ability to turn over the responsibility for all security to AWS.  
+B. The ability to use the pay-as-you-go model.  
+C. The ability to have full control over the physical infrastructure.  
+D. No longer having to guess what capacity will be required.  
+E. No longer worrying about user access controls.  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: B, D**
+</details>
+
+---
+
+### 90. Which AWS service is a hybrid cloud storage service that provides on-premises users access to virtually unlimited cloud storage?  
+A. AWS DataSync  
+B. Amazon S3 Glacier  
+C. AWS Storage Gateway  
+D. Amazon Elastic Block Store (Amazon EBS)  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: C**
+</details>
+
+---
+
+### 91. A company plans to migrate to AWS and wants to create cost estimates for its AWS use cases.  
+**Which AWS service or tool can the company use to meet these requirements?**  
+A. AWS Pricing Calculator  
+B. Amazon CloudWatch  
+C. AWS Cost Explorer  
+D. AWS Budgets  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: A**
+</details>
+
+---
+
+### 92. Which tool should a developer use to integrate AWS service features directly into an application?  
+A. AWS Software Development Kit  
+B. AWS CodeDeploy  
+C. AWS Lambda  
+D. AWS Batch  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: A**
+</details>
+
+---
+
+### 93. Which of the following is a recommended design principle of the AWS Well-Architected Framework?  
+A. Reduce downtime by making infrastructure changes infrequently and in large increments.  
+B. Invest the time to configure infrastructure manually.  
+C. Learn to improve from operational failures.  
+D. Use monolithic application design for centralization.  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: C**
+</details>
+
+---
+
+### 94. Using AWS Identity and Access Management (IAM) to grant access only to the resources needed to perform a task is a concept known as:  
+A. restricted access.  
+B. as-needed access.  
+C. least privilege access.  
+D. token access.  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: C**
+</details>
+
+---
+
+### 95. Which AWS service or tool can be used to set up a firewall to control traffic going into and coming out of an Amazon VPC subnet?  
+A. Security group  
+B. AWS WAF  
+C. AWS Firewall Manager  
+D. Network ACL  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: D**
+</details>
+
+---
+
+### 96. A company wants to operate a data warehouse to analyze data without managing the data warehouse infrastructure.  
+**Which AWS service will meet this requirement?**  
+A. Amazon Aurora  
+B. Amazon Redshift Serverless  
+C. AWS Lambda  
+D. Amazon RDS  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: B**
+</details>
+
+---
+
+### 97. How does AWS Cloud computing help businesses reduce costs? (Choose two.)  
+A. AWS charges the same prices for services in every AWS Region.  
+B. AWS enables capacity to be adjusted on demand.  
+C. AWS offers discounts for Amazon EC2 instances that remain idle for more than 1 week.  
+D. AWS does not charge for data sent from the AWS Cloud to the internet.  
+E. AWS eliminates many of the costs of building and maintaining on-premises data centers.  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: B, E**
+</details>
+
+---
+
+### 98. A company wants to grant users in one AWS account access to resources in another AWS account. The users do not currently have permission to access the resources.  
+**Which AWS service will meet this requirement?**  
+A. IAM group  
+B. IAM role  
+C. IAM tag  
+D. IAM Access Analyzer  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: B**
+</details>
+
+---
+
+### 99. Which task is the responsibility of AWS when using AWS services?  
+A. Management of IAM user permissions  
+B. Creation of security group rules for outbound access  
+C. Maintenance of physical and environmental controls  
+D. Application of Amazon EC2 operating system patches  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: C**
+</details>
+
+---
+
+### 100. A company wants to automate infrastructure deployment by using infrastructure as code (IaC). The company wants to scale production stacks so the stacks can be deployed in multiple AWS Regions.  
+**Which AWS service will meet these requirements?**  
+A. Amazon CloudWatch  
+B. AWS Config  
+C. AWS Trusted Advisor  
+D. AWS CloudFormation  
+<details>
+<summary>🔎 Show Answer</summary>  
+✅ **Ans: D**
+</details>
+
+---
+
 
 
 
