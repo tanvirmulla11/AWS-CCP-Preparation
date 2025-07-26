@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Practitioner & Associate – Interactive MCQs
+   # ☁️ AWS Cloud Practitioner & Associate – Interactive MCQs
 
 This file includes commonly asked AWS multiple-choice questions for interview and certification practice.  
 ✅ **Click each question to reveal the correct answer!**
@@ -1274,7 +1274,153 @@ D. AWS CloudFormation
 </details>
 
 ---
+# 📘 AWS Cloud Practitioner Quiz – Part  (Questions 101–120)
 
+### 📋 Questions
+
+**101. Which option is an AWS Cloud Adoption Framework (AWS CAF) platform perspective capability?**  
+A. Data architecture  
+B. Data protection  
+C. Data governance  
+D. Data science  
+<details><summary>Show Answer</summary>Ans: A</details>  
+
+**102. A company is running a workload in the AWS Cloud. Which AWS best practice ensures the MOST cost-effective architecture for the workload?**  
+A. Loose coupling  
+B. Rightsizing  
+C. Caching  
+D. Redundancy  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**103. A company wants to use AWS for backups without changing existing workflows. Which service should it use?**  
+A. Amazon EBS  
+B. AWS Storage Gateway  
+C. Amazon ECS  
+D. AWS Lambda  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**104. Which AWS tool allows users to plan usage, costs, and set custom alerts?**  
+A. Cost Explorer  
+B. AWS Budgets  
+C. AWS Cost and Usage Report  
+D. Reserved Instance reporting  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**105. Which tasks are customer responsibilities according to the AWS shared responsibility model? (Choose two)**  
+A. Establish the global infrastructure  
+B. Perform client-side data encryption  
+C. Configure IAM credentials  
+D. Secure edge locations  
+E. Patch Amazon RDS DB instances  
+<details><summary>Show Answer</summary>Ans: B, C</details>  
+
+**106. Which are AWS security best practices when giving a developer access? (Choose two)**  
+A. Grant access to only required resources  
+B. Share the AWS root credentials  
+C. Add to admin group  
+D. Restrict password changes  
+E. Enforce password length  
+<details><summary>Show Answer</summary>Ans: A, E</details>  
+
+**107. How can a company get billing discounts for uninterrupted workloads across multiple AWS accounts?**  
+A. Resource tagging  
+B. Consolidated billing  
+C. Pay-as-you-go pricing  
+D. Spot Instances  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**108. Which AWS feature allows applications on EC2 to securely call AWS services?**  
+A. Security groups  
+B. AWS Firewall Manager  
+C. IAM roles  
+D. IAM user SSH keys  
+<details><summary>Show Answer</summary>Ans: C</details>  
+
+**109. A company needs a fully managed Windows file server. Which AWS service meets this need?**  
+A. Amazon FSx  
+B. Amazon EKS  
+C. Amazon ECS  
+D. Amazon EMR  
+<details><summary>Show Answer</summary>Ans: A</details>  
+
+**110. A company wants to migrate its NFS workload. Which Storage Gateway type should it use?**  
+A. Tape Gateway  
+B. Volume Gateway  
+C. Amazon FSx File Gateway  
+D. Amazon S3 File Gateway  
+<details><summary>Show Answer</summary>Ans: D</details>  
+
+**111. Which AWS tool tracks API activity on AWS resources?**  
+A. Amazon CloudWatch  
+B. Amazon Inspector  
+C. AWS CloudTrail  
+D. AWS IAM  
+<details><summary>Show Answer</summary>Ans: C</details>  
+
+**112. Which is the most cost-effective EC2 instance pricing model for a long-term, non-interruptible workload?**  
+A. Spot Instances  
+B. On-Demand Instances  
+C. Savings Plans  
+D. Dedicated Hosts  
+<details><summary>Show Answer</summary>Ans: C</details>  
+
+**113. Which AWS service provides product recommendations using customer data?**  
+A. Amazon Polly  
+B. Amazon Personalize  
+C. Amazon Comprehend  
+D. Amazon Rekognition  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**114. In which cloud transformation phase are capability gaps identified using AWS CAF?**  
+A. Envision  
+B. Align  
+C. Scale  
+D. Launch  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**115. Which AWS service protects against SQL injection and XSS attacks?**  
+A. Amazon Inspector  
+B. AWS WAF  
+C. Amazon GuardDuty  
+D. Amazon CloudWatch  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**116. Which service is used to manage and build EC2 images?**  
+A. EC2 Image Builder  
+B. Amazon Machine Image (AMI)  
+C. AWS Launch Wizard  
+D. AWS Elastic Beanstalk  
+<details><summary>Show Answer</summary>Ans: A</details>  
+
+**117. Which AWS service continuously scans EC2 instances for vulnerabilities?**  
+A. Amazon GuardDuty  
+B. Amazon Inspector  
+C. Amazon Detective  
+D. Amazon Cognito  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**118. A company needs to perform data processing once a week that typically takes about 5 hours. Which AWS service should it use?**  
+A. AWS Lambda  
+B. Amazon EC2  
+C. AWS CodeDeploy  
+D. AWS Wavelength  
+<details><summary>Show Answer</summary>Ans: B</details>  
+
+**119. Which AWS feature provides logs of inbound/outbound traffic on VPC network interfaces?**  
+A. Amazon CloudWatch Logs  
+B. AWS CloudTrail  
+C. VPC Flow Logs  
+D. AWS IAM  
+<details><summary>Show Answer</summary>Ans: C</details>  
+
+**120. Which service stores configuration data and secrets most cost-effectively for applications?**  
+A. AWS Systems Manager Parameter Store  
+B. AWS Secrets Manager  
+C. AWS Config  
+D. Amazon S3  
+<details><summary>Show Answer</summary>Ans: A</details>  
+
+---
 
 
 
