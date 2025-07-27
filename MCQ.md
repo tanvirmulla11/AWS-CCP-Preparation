@@ -1419,7 +1419,7 @@ B. AWS Secrets Manager
 C. AWS Config  
 D. Amazon S3  
 <details><summary>Show Answer</summary>Ans: A</details>  
-
+---
 
 
 
