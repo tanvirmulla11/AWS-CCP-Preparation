@@ -1419,7 +1419,288 @@ B. AWS Secrets Manager
 C. AWS Config  
 D. Amazon S3  
 <details><summary>Show Answer</summary>Ans: A</details>  
+
+
+### 121. A company is assessing its AWS Business Support plan to determine if the plan still meets the company’s needs. The company is considering switching to AWS Enterprise Support. Which additional benefit will the company receive with AWS Enterprise Support?
+
+A. A full set of AWS Trusted Advisor checks  
+B. Phone, email, and chat access to cloud support engineers 24/7  
+C. A designated technical account manager (TAM) to assist in monitoring and optimization  
+D. A consultative review and architecture guidance  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. A designated technical account manager (TAM)**
+</details>
+
 ---
+
+### 122. Which pricing model will interrupt a running Amazon EC2 instance if capacity becomes temporarily unavailable?
+
+A. On-Demand Instances  
+B. Standard Reserved Instances  
+C. Spot Instances  
+D. Convertible Reserved Instances  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. Spot Instances**
+</details>
+
+---
+
+### 123. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
+
+A. Observability  
+B. Incident and problem management  
+C. Incident response  
+D. Infrastructure protection  
+E. Availability and continuity  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answers: C. Incident response, D. Infrastructure protection**
+</details>
+
+---
+
+### 124. A company wants to run its workload on Amazon EC2 instances for more than 1 year. This workload will run continuously. Which option offers a discounted hourly rate?
+
+A. AWS Graviton processor  
+B. Dedicated Hosts  
+C. EC2 Instance Savings Plans  
+D. Amazon EC2 Auto Scaling  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. EC2 Instance Savings Plans**
+</details>
+
+---
+
+### 125. Which characteristic of the AWS Cloud helps users eliminate underutilized CPU capacity?
+
+A. Agility  
+B. Elasticity  
+C. Reliability  
+D. Durability  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Elasticity**
+</details>
+
+---
+
+### 126. Which AWS services can a company use to achieve a loosely coupled architecture? (Choose two.)
+
+A. Amazon WorkSpaces  
+B. Amazon Simple Queue Service (Amazon SQS)  
+C. Amazon Connect  
+D. AWS Trusted Advisor  
+E. AWS Step Functions  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answers: B. Amazon SQS, E. AWS Step Functions**
+</details>
+
+---
+
+### 127. Which AWS service enables customers to audit API calls in their AWS accounts?
+
+A. AWS CloudTrail  
+B. AWS Trusted Advisor  
+C. Amazon Inspector  
+D. AWS X-Ray  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS CloudTrail**
+</details>
+
+---
+
+### 128. What is a customer responsibility when using AWS Lambda, according to the shared responsibility model?
+
+A. Managing the hardware in AWS regions  
+B. Managing the code within the Lambda function  
+C. Applying patches to the infrastructure  
+D. Backing up AWS Lambda services  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Managing the code within the Lambda function**
+</details>
+
+---
+
+### 129. Which AWS service supports a hybrid architecture by extending AWS to on-premises environments?
+
+A. AWS Outposts  
+B. Amazon Redshift  
+C. AWS Lambda  
+D. Amazon DynamoDB  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS Outposts**
+</details>
+
+---
+
+### 130. What AWS service helps protect against DDoS attacks?
+
+A. AWS WAF  
+B. AWS Shield  
+C. AWS Config  
+D. AWS Secrets Manager  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. AWS Shield**
+</details>
+
+---
+
+### 131. Which AWS service allows infrastructure to be provisioned using code?
+
+A. AWS Auto Scaling  
+B. AWS CloudFormation  
+C. Amazon CloudWatch  
+D. Amazon VPC  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. AWS CloudFormation**
+</details>
+
+---
+
+### 132. Which tool helps users estimate their monthly AWS bill?
+
+A. AWS Pricing Calculator  
+B. AWS Cost and Usage Report  
+C. AWS Budgets  
+D. AWS Cost Explorer  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS Pricing Calculator**
+</details>
+
+---
+
+### 133. Which AWS service enables automated software deployment to EC2, Lambda, and on-premises servers?
+
+A. AWS CodeCommit  
+B. AWS CodePipeline  
+C. AWS CodeDeploy  
+D. AWS Systems Manager  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. AWS CodeDeploy**
+</details>
+
+---
+
+### 134. Which of the following helps organizations meet compliance requirements by recording AWS API calls?
+
+A. AWS Shield  
+B. Amazon Macie  
+C. AWS CloudTrail  
+D. AWS Inspector  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. AWS CloudTrail**
+</details>
+
+---
+
+### 135. Which AWS service is used to securely store and retrieve secrets such as database credentials or API keys?
+
+A. AWS Secrets Manager  
+B. AWS KMS  
+C. Amazon S3  
+D. AWS Shield  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS Secrets Manager**
+</details>
+
+---
+
+### 136. Which feature of Amazon EC2 allows distributing incoming application traffic across multiple targets?
+
+A. Auto Scaling  
+B. Elastic Load Balancer  
+C. Amazon CloudWatch  
+D. Amazon Inspector  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Elastic Load Balancer**
+</details>
+
+---
+
+### 137. Which AWS service is a serverless compute engine that runs containers without managing servers?
+
+A. Amazon ECS  
+B. AWS Fargate  
+C. AWS Lambda  
+D. Amazon EKS  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. AWS Fargate**
+</details>
+
+---
+
+### 138. What benefit does AWS provide by allowing you to only pay for what you use?
+
+A. Shared Responsibility Model  
+B. Pay-as-you-go pricing  
+C. EC2 Savings Plans  
+D. Reserved pricing  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Pay-as-you-go pricing**
+</details>
+
+---
+
+### 139. Which AWS service enables sending, storing, and receiving messages between software components?
+
+A. AWS Step Functions  
+B. AWS CloudTrail  
+C. Amazon SQS  
+D. Amazon Kinesis  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. Amazon SQS**
+</details>
+
+---
+
+### 140. What feature of AWS provides high availability by distributing resources across multiple geographic areas?
+
+A. Availability Zones  
+B. Edge Locations  
+C. Regions  
+D. Elastic Load Balancers  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. Regions**
+</details>
+
 
 
 
