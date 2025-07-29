@@ -1701,6 +1701,271 @@ D. Elastic Load Balancers
   ✅ **Answer: C. Regions**
 </details>
 
+### 141. Which AWS Cloud service can send alerts to customers if custom spending thresholds are exceeded?
+
+A. AWS Budgets  
+B. AWS Cost Explorer  
+C. AWS Pricing Calculator  
+D. AWS Billing Dashboard  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS Budgets**
+</details>
+
+---
+
+### 142. A company plans to migrate to the AWS Cloud. The company wants to use the AWS Cloud Adoption Framework (AWS CAF) to define and track business outcomes as part of its cloud transformation journey.  
+Which AWS CAF governance perspective capability will meet these requirements?
+
+A. Benefits management  
+B. Program management  
+C. Risk management  
+D. Policy enforcement  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. Benefits management**
+</details>
+
+---
+
+### 143. A company needs to quickly and securely move files over long distances between its client and an Amazon S3 bucket.  
+Which S3 feature will meet this requirement?
+
+A. S3 Intelligent-Tiering  
+B. S3 Transfer Acceleration  
+C. S3 Replication  
+D. S3 Lifecycle Policies  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. S3 Transfer Acceleration**
+</details>
+
+---
+
+### 144. A company needs to continuously run an experimental workload on an Amazon EC2 instance and stop the instance after 12 hours.  
+Which instance purchasing option will meet this requirement MOST cost-effectively?
+
+A. On-Demand Instances  
+B. Reserved Instances  
+C. Spot Instances  
+D. Dedicated Hosts  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. On-Demand Instances**
+</details>
+
+---
+
+### 145. Which cloud transformation journey phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on demonstrating how the cloud helps accelerate business outcomes?
+
+A. Launch  
+B. Envision  
+C. Scale  
+D. Mobilize  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Envision**
+</details>
+
+---
+
+### 146. Which option is a customer responsibility under the AWS shared responsibility model?
+
+A. Hypervisor security  
+B. Application data security  
+C. Physical security of data centers  
+D. Maintenance of hardware  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Application data security**
+</details>
+
+---
+
+### 147. A company wants its Amazon EC2 instances to operate in a highly available environment, even if there is a natural disaster in a particular geographic area.  
+Which approach will achieve this goal?
+
+A. Use EC2 instances in multiple AWS Regions.  
+B. Use EC2 Auto Scaling across multiple subnets.  
+C. Use EC2 Spot Instances in a single Availability Zone.  
+D. Use Elastic Load Balancing across one Region.  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. Use EC2 instances in multiple AWS Regions.**
+</details>
+
+---
+
+### 148. A company wants to modernize and convert a monolithic application into microservices. The company wants to move the application to AWS.  
+Which migration strategy should the company use?
+
+A. Rehost  
+B. Replatform  
+C. Retire  
+D. Refactor  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: D. Refactor**
+</details>
+
+---
+
+### 149. A systems administrator created a new IAM user for a developer and assigned the user an access key instead of a user name and password.  
+What is the access key used for?
+
+A. To access the AWS Management Console  
+B. To sign in to IAM Identity Center  
+C. To access the AWS account through a CLI  
+D. To create new IAM policies  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. To access the AWS account through a CLI**
+</details>
+
+---
+
+### 150. Which option is an environment that consists of one or more data centers?
+
+A. Region  
+B. Availability Zone  
+C. Edge Location  
+D. Local Zone  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. Availability Zone**
+</details>
+
+---
+
+### 151. A company is moving an on-premises data center to the AWS Cloud. The company must migrate 50 petabytes of file storage data to AWS with the least possible operational overhead.  
+Which AWS service or resource should the company use to meet these requirements?
+
+A. AWS Snowmobile  
+B. AWS DataSync  
+C. AWS Direct Connect  
+D. AWS Snowball  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS Snowmobile**
+</details>
+
+---
+
+### 152. A company has an application with robust hardware requirements. The application must be accessed by students who are using lightweight, low-cost laptops.  
+Which AWS service will help the company deploy the application without investing in backend infrastructure or high-end client hardware?
+
+A. Amazon AppStream 2.0  
+B. Amazon WorkSpaces  
+C. AWS Cloud9  
+D. AWS Lambda  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. Amazon AppStream 2.0**
+</details>
+
+---
+
+### 153. A company wants to query its server logs to gain insights about its customers’ experiences.  
+Which AWS service will store this data MOST cost-effectively?
+
+A. Amazon RDS  
+B. Amazon Redshift  
+C. Amazon ElastiCache  
+D. Amazon S3  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: D. Amazon S3**
+</details>
+
+---
+
+### 154. Which of the following is a recommended design principle for AWS Cloud architecture?
+
+A. Use a single Availability Zone for consistency.  
+B. Build monolithic applications to simplify operations.  
+C. Provision for peak capacity at all times.  
+D. Avoid monolithic architecture by segmenting workloads.  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: D. Avoid monolithic architecture by segmenting workloads.**
+</details>
+
+---
+
+### 155. Which AWS service helps users audit API activity across their AWS account?
+
+A. AWS CloudTrail  
+B. AWS Trusted Advisor  
+C. Amazon Inspector  
+D. AWS X-Ray  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: A. AWS CloudTrail**
+</details>
+
+---
+
+### 156. Which task is a customer’s responsibility, according to the AWS shared responsibility model?
+
+A. Patching the network infrastructure  
+B. Securing the physical data centers  
+C. Management of the guest operating systems  
+D. Monitoring the AWS hypervisor  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. Management of the guest operating systems**
+</details>
+
+---
+
+### 157. A company wants to automatically add and remove Amazon EC2 instances. The company wants the EC2 instances to adjust to varying workloads dynamically.  
+Which service or feature will meet these requirements?
+
+A. AWS Batch  
+B. Amazon EventBridge  
+C. AWS Trusted Advisor  
+D. Amazon EC2 Auto Scaling  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: D. Amazon EC2 Auto Scaling**
+</details>
+
+---
+
+### 158. A user wants to securely automate the management and rotation of credentials that are shared between applications, while spending the least amount of time on managing tasks.  
+Which AWS service or feature can be used to accomplish this?
+
+A. AWS IAM Access Analyzer  
+B. AWS Config  
+C. AWS Secrets Manager  
+D. Amazon Cognito  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: C. AWS Secrets Manager**
+</details>
+
+---
+
+✅ Want more questions? Check previous parts or submit your own suggestions!
+
 
 
 
