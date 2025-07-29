@@ -1963,8 +1963,32 @@ D. Amazon Cognito
 </details>
 
 ---
+### 159. Which AWS service can be used to run code without provisioning or managing servers?
 
-✅ Want more questions? Check previous parts or submit your own suggestions!
+A. Amazon EC2  
+B. AWS Lambda  
+C. AWS Elastic Beanstalk  
+D. Amazon ECS  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. AWS Lambda**
+</details>
+
+---
+
+### 160. Which AWS service provides a visual workflow for coordinating multiple AWS services into serverless workflows?
+
+A. Amazon CloudWatch  
+B. AWS Step Functions  
+C. AWS Batch  
+D. AWS Glue  
+
+<details>
+  <summary>Show Answer</summary>
+  ✅ **Answer: B. AWS Step Functions**
+</details>
+
 
 
 
