@@ -1989,10 +1989,116 @@ D. AWS Glue
   ✅ **Answer: B. AWS Step Functions**
 </details>
 
+### 161. Which actions are best practices for an AWS account root user? (Choose two.)
+A. Share root user credentials with team members  
+B. Create multiple root users for the account, separated by environment  
+C. Enable multi-factor authentication (MFA) on the root user  
+D. Create an IAM user with administrator privileges for daily administrative tasks, instead of using the root user  
+E. Use programmatic access instead of the root user and password  
+<details><summary>💡 Answer</summary>
+C and D
+</details>
 
+---
 
+### 162. A company is running a critical workload on an Amazon RDS DB instance. The company needs the DB instance to be highly available with a recovery time of less than 5 minutes. Which solution will meet these requirements?
+A. Create a read replica of the DB instance  
+B. Create a template of the DB instance by using AWS CloudFormation  
+C. Take frequent snapshots of the DB instance. Store the snapshots in Amazon S3  
+D. Modify the DB instance to be a Multi-AZ deployment  
+<details><summary>💡 Answer</summary>
+D
+</details>
 
+---
 
+### 163. A company plans to migrate its application to AWS and run the application on Amazon EC2 instances. The application will have continuous usage for 1 year. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+A. Reserved Instances  
+B. Spot Instances  
+C. On-Demand Instances  
+D. Dedicated Hosts  
+<details><summary>💡 Answer</summary>
+A
+</details>
+
+---
+
+### 164. A company needs to transfer data between an Amazon S3 bucket and an on-premises application. Who is responsible for the security of this data, according to the AWS shared responsibility model?
+A. The company  
+B. AWS  
+C. Firewall vendor  
+D. AWS Marketplace partner  
+<details><summary>💡 Answer</summary>
+A
+</details>
+
+---
+
+### 165. Which AWS service can automatically distribute incoming application traffic across multiple targets?
+A. Amazon EC2  
+B. Amazon S3  
+C. Elastic Load Balancing  
+D. Amazon EBS  
+<details><summary>💡 Answer</summary>
+C
+</details>
+
+---
+
+### 166. Which service should a company use to centrally manage and apply policies across multiple AWS accounts?
+A. AWS Organizations  
+B. AWS IAM  
+C. AWS Shield  
+D. AWS Config  
+<details><summary>💡 Answer</summary>
+A
+</details>
+
+---
+
+### 167. What is the primary benefit of deploying applications across multiple Availability Zones?
+A. Improved data encryption  
+B. Reduced cost  
+C. Increased application availability  
+D. Better network performance  
+<details><summary>💡 Answer</summary>
+C
+</details>
+
+---
+
+### 168. Which storage class is best for data that is accessed less frequently but must be retrieved quickly when needed?
+A. Amazon S3 Standard  
+B. Amazon S3 Glacier  
+C. Amazon S3 One Zone-IA  
+D. Amazon S3 Standard-IA  
+<details><summary>💡 Answer</summary>
+D
+</details>
+
+---
+
+### 169. What is the benefit of using AWS Auto Scaling?
+A. Prevents DDoS attacks  
+B. Automatically adjusts resources to match demand  
+C. Encrypts data at rest  
+D. Manages AWS billing automatically  
+<details><summary>💡 Answer</summary>
+B
+</details>
+
+---
+
+### 170. What AWS service allows for real-time processing of streaming data?
+A. Amazon Redshift  
+B. AWS Lambda  
+C. Amazon Kinesis  
+D. Amazon QuickSight  
+<details><summary>💡 Answer</summary>
+C
+</details>
+
+---
 ## 📘 License  
 For educational use only.
 
