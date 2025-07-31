@@ -3,7 +3,7 @@
 This file includes commonly asked AWS multiple-choice questions for interview and certification practice.  
 ✅ **Click each question to reveal the correct answer!**
 
----
+
 
 ### 1. Amazon Snowball Edge Usage  
 Which activities related to a Snowball Edge device are available to the company at no cost?
