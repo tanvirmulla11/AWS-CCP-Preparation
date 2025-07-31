@@ -33,7 +33,7 @@ Which AWS service can assess application vulnerabilities and infrastructure misc
   <b>Answer: B</b> – Amazon Inspector
 </details>
 
----
+
 
 ### 3. Hybrid File Storage  
 What is the MOST operationally efficient AWS solution for hybrid storage with local performance?
