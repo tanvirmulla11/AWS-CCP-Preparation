@@ -1,7 +1,6 @@
    # ☁️ AWS Cloud Practitioner & Associate – Interactive MCQs
 
 This file includes commonly asked AWS multiple-choice questions for interview and certification practice.  
-✅ **Click each question to reveal the correct answer!**
 
 
 
